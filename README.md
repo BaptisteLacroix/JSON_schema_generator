@@ -75,3 +75,7 @@ The generated JSON Schema is then inserted into the `README.md` file, under a se
 **Disclaimer:** This script relies on the assumption that the provided JSON data is properly structured and contains the required object with the specified ID. Any inconsistencies in the JSON data may lead to unexpected behavior or errors in the script.
 
 For more information on JSON Schema, refer to the [JSON Schema Documentation](https://json-schema.org/).
+
+---
+
+Developed by Lacroix Baptiste.
