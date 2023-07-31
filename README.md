@@ -68,7 +68,7 @@ The generated JSON Schema is then inserted into the `README.md` file, under a se
 
 8. The updated `README.md` file will contain the generated JSON Schema in a formatted manner for easy reference.
 
-**Note:** Ensure that the `README.md` file exists in the same directory as the script before running it.
+**Note:** Ensure that the `README.md` file exists in the target directory.
 
 **Important:** It is recommended to back up your `README.md` file before running the script, especially if it contains important content, as the script will modify it during execution.
 
